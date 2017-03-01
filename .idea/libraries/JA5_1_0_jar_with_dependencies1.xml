@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JA5-1.0-jar-with-dependencies1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JA5/target/JA5-1.0-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
